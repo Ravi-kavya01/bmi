@@ -1,0 +1,12 @@
+{
+    "name": "ravi/bmi",
+    "description": "to check bmi",
+    "authors": [
+        {
+            "name": "ravi shukla",
+            "email": "ravi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
